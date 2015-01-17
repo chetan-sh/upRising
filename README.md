@@ -1,0 +1,2 @@
+# upRising
+Data Scientist, R
